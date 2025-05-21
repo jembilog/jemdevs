@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm passionate about building intelligent bots, smart auto
 ---
 
 ## 📌 Featured Projects
-- 🩺 [AI Weather Forecaster Chatbot]([https://github.com/jembilog/health-chatbot](https://github.com/jembilog/Weather-Chatbot)) – A web-based chatbot using FastAPI + OpenAI
+- 🩺 [AI Weather Forecaster Chatbot](https://github.com/jembilog/Weather-Chatbot) – A web-based chatbot using FastAPI + OpenAI
 - 💬 [Telegram Bot Auto-Reply](https://github.com/jembilog/telegram-autobot)
 - 🔍 [Web Scraping Tool](https://github.com/jembilog/scraper-bot)
 
